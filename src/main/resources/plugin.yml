@@ -1,0 +1,4 @@
+name: HelloWorldMaven
+author: Ketchupbombe
+version: {$VersionNumber}
+main: de.ketchupbombe.HelloWorldMaven
